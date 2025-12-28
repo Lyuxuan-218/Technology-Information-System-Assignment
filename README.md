@@ -1,4 +1,4 @@
-# 🏫 My Industrial Assignments
+# 💻 My TIS Adventures!
 
 Welcome to my collection of **industrial visit & talk assignments**!  
 
