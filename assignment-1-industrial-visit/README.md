@@ -5,3 +5,6 @@ This assignment documents our industrial visit to UTMDigital, a department withi
 During the visit, we explored how UTMDigital operates and supports the university through digital systems.
 
 As part of this assignment, we created a vlog video to capture our experience and share what we learned in a more engaging way.
+
+You can watch our vlog here:
+【WATCH OUR VLOG]】 （https://youtu.be/g5_eIimaua0a）
