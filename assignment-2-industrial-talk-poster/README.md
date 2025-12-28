@@ -1,7 +1,12 @@
-# Assignment 2: Industrial Talk Poster
+# 🎨 Industrial Talk Poster
 
-This assignment is based on an industrial talk delivered by a guest speaker.
+This is our poster for the industrial talk we attended!  
 
-The talk gave us useful insights into the working world, including career paths and industry expectations.
+The talk gave us:
+- 💡 Insights into the working world and career paths  
+- 📝 Tips on what skills are needed in the industry  
+- 👀 Inspiration for our own learning journey  
 
-We then designed a poster to highlight and summarize the key points from the talk in a clear and visual way.
+We then created this poster to highlight the **key points visually**.
+
+Hope you enjoy our summary of the talk! 😄
