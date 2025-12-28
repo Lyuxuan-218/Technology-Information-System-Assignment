@@ -11,6 +11,6 @@ We then created this poster to highlight the **key points visually**.
 
 ## Poster
 Check out our poster here:  
-![Poster](poster tis.png) 
+![Poster](https://github.com/Lyuxuan-218/Technology-Information-System-Assignment/blob/main/assignment-2-industrial-talk-poster/poster%20tis.png) 
 
 Hope you enjoy our summary of the talk! 😄
