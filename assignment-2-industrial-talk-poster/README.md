@@ -7,6 +7,10 @@ The talk gave us:
 - 📝 Tips on what skills are needed in the industry  
 - 👀 Inspiration for our own learning journey  
 
-We then created this poster to highlight the **key points visually**.
+We then created this poster to highlight the **key points visually**.  
+
+## Poster
+Check out our poster here:  
+![Poster](poster tis.png) 
 
 Hope you enjoy our summary of the talk! 😄
