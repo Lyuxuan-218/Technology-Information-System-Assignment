@@ -1,1 +1,19 @@
+cat > README.md << 'EOF'
+# 📝 Industrial Talk 2: Project Management & System Development  
+
+This is our **academic writing assignment** about the second industrial talk by **Ts. Hj. Abdul Alim** – an IT professional who showed us how classroom learning connects to real work!  
+
+During the talk, we learned about:
+- 🔧 **System Development** – how software is planned and built  
+- 📊 **Project Management** – different ways to manage tech projects  
+- 🛠️ **Using Tools Wisely** – how AI can help without replacing our own thinking  
+
+## Assignment Document  
+Read our full report here:  
+📎 **[assignment-3-tis.pdf](./assignment-3-tis.pdf)**
+
+---
+
+*From theory to practice, one step at a time.* ✨
+EOF
 
