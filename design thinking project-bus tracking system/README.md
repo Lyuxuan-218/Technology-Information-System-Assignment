@@ -1,4 +1,4 @@
-#🎯 Campus Bus Tracking System – Design Thinking Project
+# 🎯 Campus Bus Tracking System – Design Thinking Project
 
 In this project, we explored issues faced by students using the campus bus system, including:
 
@@ -15,7 +15,9 @@ We applied the Design Thinking process to develop our solution:
 
 💻 Our proposed solution includes features such as real-time GPS tracking, ETA display, push notifications for delays, and night-time SOS support.
 
-You can view the full report and supporting materials here:
-👉 View the file
+You can view the full report and video here:
+👉 Report [designthinking report]
+👉 Video []
+
 
 This project helped us understand the importance of human-centered design, teamwork, and translating user needs into practical solutions.
