@@ -18,7 +18,8 @@ We applied the Design Thinking process to develop our solution:
 ## Report and Video
 
 You can view the full report and video here:
-👉 [Report](designthinkingproject report.docx)
+
+👉 [Report](designthinkingreport.docx)
 
 👉 [Video](https://youtu.be/MboS47wFvRQ)
 
