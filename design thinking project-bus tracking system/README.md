@@ -1,4 +1,4 @@
-**🎯 Campus Bus Tracking System – Design Thinking Project**
+#🎯 Campus Bus Tracking System – Design Thinking Project
 
 In this project, we explored issues faced by students using the campus bus system, including:
 
