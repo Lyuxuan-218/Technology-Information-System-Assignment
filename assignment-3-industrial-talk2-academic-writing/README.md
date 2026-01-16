@@ -1,4 +1,4 @@
-# 🎤 **Our Industry Talk Experience (Assignment 3)**  
+# 🎤 **Our Industry Talk 2 Academic Writing**  
 
 This folder contains our Assignment 3 based on an Industry Talk for the course
 Technology and Information System.
