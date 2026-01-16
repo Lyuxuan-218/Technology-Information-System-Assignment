@@ -15,6 +15,8 @@ During this talk, we learned about:
 
 🤝 **The importance of teamwork, communication, and adaptability in the IT industry**
 
+## Academic Writing
+
 You can view my academic writing here:  
 👉 [View the file](assignment3tis.pdf)
 
