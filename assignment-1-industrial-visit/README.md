@@ -11,4 +11,4 @@ During the visit, we got to:
 Check out our vlog here:  
 [🎬 Watch the vlog](https://youtu.be/g5_eIimaua0)
 
-Hope you enjoy our little adventure! 😄
+Hope you have fun and enjoy our little adventure! 😄
