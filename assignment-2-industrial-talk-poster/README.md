@@ -1,6 +1,6 @@
 # 🎨 Industrial Talk Poster
 
-This is our poster for the industrial talk we attended!  
+This is our poster for the first industrial talk we attended!  
 
 The talk gave us:
 - 💡 Insights into the working world and career paths  
