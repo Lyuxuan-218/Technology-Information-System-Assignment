@@ -1,5 +1,4 @@
-*🎯 Campus Bus Tracking System – Design Thinking Project
-This folder contains our Design Thinking project report for the course Technology and Information Systems (SECP 1513), Semester I 2025/2026.
+*🎯 Campus Bus Tracking System – Design Thinking Project*
 
 In this project, we explored issues faced by students using the campus bus system, including:
 
