@@ -4,12 +4,6 @@ This is Assignment 4 for the course Technology and Information System, presented
 
 We visited Johor Port Berhad, Pasir Gudang on 8 January 2026, where we learned about real-world port operations and how technology supports large-scale logistics.
 
-📍 About the Visit
-
-Welcomed by the Johor Port team with a safety briefing and corporate presentation.
-
-ICT Department shared how information systems, network infrastructure, and cybersecurity support daily port operations.
-
 🛠️ Key Highlights
 
 Port operations and logistics workflows 🚢
