@@ -18,8 +18,7 @@ Importance of safety, teamwork, and communication 🤝
 
 ## Newsletter
 You can view my academic writing here:
-
-👉 [View the file](assignment-4-industrial-visit2/tis ass 4.pdf) 
+👉 [View the file](tisass4.pdf)
 
 ### Reflection
 
